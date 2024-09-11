@@ -50,3 +50,8 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # my-layout-app
 # my-layout-app
+
+npm install @expo-google-fonts/montserrat
+npm install expo-linear-gradient
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
